@@ -2,7 +2,9 @@
 Solutions to problems listed in http://aperiodic.net/phil/scala/s-99/
 
 P01: Done
+
 P02: Done
+
 P03:
 P04:
 P05:
