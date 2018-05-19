@@ -1,9 +1,8 @@
 
-object P03 extends App {
-  def kth(k: Int, l: List[Int]): Int = {
-    val size = l.size
-    if (k < size) l(k) else l(size-1)
+object P04 extends App {
+  def length(l: List[Int]): Int = {
+    l.size
   }
 
-  println(kth(2, List(1,1,2,3,5,8)))
+  println(length(List(1,1,2,3,5,8)))
 }
