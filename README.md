@@ -65,7 +65,7 @@ P30:
 
 ## Arithmetic
 
-P31:
+P31: Determine whether a given integer number is prime (Done)
 
 P32:
 
