@@ -97,7 +97,7 @@ P45:
 
 ## Logic and Codes
 
-P46:
+P46: Truth tables for logical expressions. (Done)
 
 P47:
 
