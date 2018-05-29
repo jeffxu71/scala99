@@ -15,7 +15,7 @@ P06: Done
 
 P07: Done
 
-P08:
+P08: Done
 
 P09:
 
