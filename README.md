@@ -7,11 +7,11 @@ P02: Done
 
 P03: Done
 
-P04:
+P04: Done (Both recursion and tail recursion)
 
-P05:
+P05: Done (Both recursion and tail recursion)
 
-P06:
+P06: Done
 
 P07:
 
