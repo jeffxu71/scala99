@@ -1,6 +1,8 @@
 # scala99
 Solutions to problems listed in http://aperiodic.net/phil/scala/s-99/
 
+## Working with lists
+
 P01: Done
 
 P02: Done
@@ -61,6 +63,8 @@ P29:
 
 P30:
 
+## Arithmetic
+
 P31:
 
 P32:
@@ -91,6 +95,8 @@ P44:
 
 P45:
 
+## Logic and Codes
+
 P46:
 
 P47:
@@ -108,6 +114,8 @@ P52:
 P53:
 
 P54:
+
+## Binary Trees
 
 P55:
 
@@ -139,6 +147,8 @@ P68:
 
 P69:
 
+## Multiway Trees
+
 P70:
 
 P71:
@@ -159,6 +169,8 @@ P78:
 
 P79:
 
+## Graphs
+
 P80:
 
 P81:
@@ -176,6 +188,8 @@ P86:
 P87:
 
 P89:
+
+## Miscellaneous Problems
 
 P90:
 
