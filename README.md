@@ -3,21 +3,21 @@ Solutions to problems listed in http://aperiodic.net/phil/scala/s-99/
 
 ## Working with lists
 
-P01: Done
+P01: Find the last element of a list (Done)
 
-P02: Done
+P02: Find the last but one element of a list (Done)
 
-P03: Done
+P03: Find the Kth element of a list (Done)
 
-P04: Done (Both recursion and tail recursion)
+P04: Find the number of elements of a list (Done, Both recursion and tail recursion)
 
-P05: Done (Both recursion and tail recursion)
+P05: Reverse a list (Done, Both recursion and tail recursion)
 
-P06: Done
+P06: Find out whether a list is a palindrome (Done)
 
-P07: Done
+P07: Flatten a nested list structure (Done)
 
-P08: Done
+P08: Eliminate consecutive duplicates of list elements (Done)
 
 P09:
 
@@ -29,9 +29,9 @@ P12:
 
 P13:
 
-P14: Done
+P14: Duplicate the elements of a list (Done)
 
-P15: Done
+P15: Duplicate the elements of a list a given number of times (Done)
 
 P16:
 
@@ -101,19 +101,9 @@ P46: Truth tables for logical expressions. (Done)
 
 P47:
 
-P48:
-
 P49:
 
 P50:
-
-P51:
-
-P52:
-
-P53:
-
-P54:
 
 ## Binary Trees
 
@@ -131,7 +121,11 @@ P60:
 
 P61:
 
+P61A:
+
 P62:
+
+P62B:
 
 P63:
 
@@ -150,6 +144,8 @@ P69:
 ## Multiway Trees
 
 P70:
+
+P70C:
 
 P71:
 
