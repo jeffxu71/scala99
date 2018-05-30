@@ -1,5 +1,8 @@
 
+import scala.annotation.tailrec
+
 object P02 extends App {
+  @tailrec
   def penultimate[T](l: List[T]): Option[T] = l match {
     case Nil => None
     case head :: Nil => None
