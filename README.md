@@ -67,7 +67,7 @@ P30:
 
 P31: Determine whether a given integer number is prime. (Done)
 
-P32:
+P32: Determine the greatest common divisor of two positive interger numbers. (Done, tail recursion)
 
 P33:
 
