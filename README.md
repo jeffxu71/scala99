@@ -99,7 +99,7 @@ P45:
 
 P46: Truth tables for logical expressions. (Done)
 
-P47:
+P47: Truth tables for logical expressions(2). (not Done)
 
 P49:
 
