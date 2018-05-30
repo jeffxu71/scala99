@@ -1,13 +1,13 @@
 
 object P07 extends App {
-  def flatten[T](l: List[Any]): List[T] = {
-    var acc = List[T]()
+  def flatten[Any](l: List[Any]): List[Any] = {
+    var acc = List[Any]()
     l foreach ( e => e match {
-      case b: T => acc = acc :+ b
       case a: List[Any] => acc = acc ::: flatten(a)
+      case b: Any => acc = acc :+ b
     })
     acc
   }
 
-  println(flatten(List(List(1,"a"), 2, List(3, List(5, 8)))))
+  println(flatten(List(List(1,1), 2, List(3, List(5, 8, List(0))),9)))
 }
