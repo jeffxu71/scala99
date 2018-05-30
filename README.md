@@ -3,21 +3,21 @@ Solutions to problems listed in http://aperiodic.net/phil/scala/s-99/
 
 ## Working with lists
 
-P01: Find the last element of a list (Done)
+P01: Find the last element of a list. (Done)
 
-P02: Find the last but one element of a list (Done)
+P02: Find the last but one element of a list. (Done)
 
-P03: Find the Kth element of a list (Done)
+P03: Find the Kth element of a list. (Done)
 
-P04: Find the number of elements of a list (Done, Both recursion and tail recursion)
+P04: Find the number of elements of a list. (Done, Both recursion and tail recursion)
 
-P05: Reverse a list (Done, Both recursion and tail recursion)
+P05: Reverse a list. (Done, Both recursion and tail recursion)
 
-P06: Find out whether a list is a palindrome (Done)
+P06: Find out whether a list is a palindrome. (Done)
 
-P07: Flatten a nested list structure (Done)
+P07: Flatten a nested list structure. (Done)
 
-P08: Eliminate consecutive duplicates of list elements (Done)
+P08: Eliminate consecutive duplicates of list elements. (Done)
 
 P09:
 
@@ -29,9 +29,9 @@ P12:
 
 P13:
 
-P14: Duplicate the elements of a list (Done)
+P14: Duplicate the elements of a list. (Done)
 
-P15: Duplicate the elements of a list a given number of times (Done)
+P15: Duplicate the elements of a list a given number of times. (Done)
 
 P16:
 
@@ -65,7 +65,7 @@ P30:
 
 ## Arithmetic
 
-P31: Determine whether a given integer number is prime (Done)
+P31: Determine whether a given integer number is prime. (Done)
 
 P32:
 
@@ -101,7 +101,7 @@ P46: Truth tables for logical expressions. (Done)
 
 P47: Truth tables for logical expressions(2). (not Done)
 
-P49:
+P49: Gray code. (Done, not optimized yet)
 
 P50:
 
